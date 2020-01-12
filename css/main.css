@@ -3351,8 +3351,14 @@ time {
 }
 
 .logo {
+<<<<<<< HEAD
 	background-image: url("../img/sprites/logos1.svg");
 	background-repeat: no-repeat
+=======
+	background-image: url("../img/sprites/logos.svg");
+	background-repeat: no-repeat;
+	background-size:400px;
+>>>>>>> 64acc3aeeaa37d79b21a35a39240203116a3ba85
 }
 
 .logo.logo-dark {
@@ -3360,7 +3366,7 @@ time {
 }
 
 .logo.logo-gray {
-	background-position: 0 -63px
+	background-position: -35px -18px
 }
 
 .logo.logo-light {
@@ -3473,8 +3479,8 @@ time {
 .logo-header .logo {
 	display: inline-block;
 	float: left;
-	width: 185px;
-	height: 60px;
+	width: 400px;
+	height: 85px;
 	margin-right: 20px;
 	-webkit-transform: scale(0.7);
 	-ms-transform: scale(0.7);
@@ -3483,8 +3489,8 @@ time {
 }
 
 .logo-navbar {
-	width: 185px;
-	height: 60px;
+	width: 400px;
+	height: 85px;
 	margin: 8px 20px 0 -10px;
 	-webkit-transform: scale(0.6);
 	-ms-transform: scale(0.6);
@@ -4197,7 +4203,7 @@ nav li a:hover {
 }
 
 .logo-footer {
-	width: 185px;
+	width: 300px;
 	height: 60px;
 	margin: -13px -13px 0;
 	-webkit-transform: scale(0.65);
