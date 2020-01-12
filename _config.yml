@@ -42,10 +42,12 @@ twitterAccount: "@OSCALconf"
 
 # Navigation
 navigationLinks:
- #- {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/about/", text: "About"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/about-tirana/", text: "Attending"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}-->
@@ -72,12 +74,12 @@ aboutBlock:
  - {title: "Info-booths", image: "infobooths.jpg", text: "Are you a company working with open source project or product? You can have a booth and present ..." }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "statistics.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of FLOSS technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from around the world"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "to select fom"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
