@@ -179,7 +179,7 @@ socialLinks:
  - {link: "https://twitter.com/OSCALconf", icon: "twitter"}
  - {link: "https://facebook.com/openlabsAlbania", icon: "facebook"}
  - {link: "https://github.com/OpenLabsHackerspace/OSCAL2020-website", icon: "github"}
- - {link: "https://github.com/OpenLabsHackerspace/OSCAL2020-website", icon: "google-plus"}
+
  #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

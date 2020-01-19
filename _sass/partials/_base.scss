@@ -8,17 +8,17 @@ $extra-bold: 600;
 
 // Base Font
 $base-font-family: sans-serif;
-$base-font-weight: $regular;
-$base-font-size: 13px;
+$base-font-weight: $bold;
+$base-font-size: 14px;
 $base-line-height: 23px;
 
 // Fixed Font
-$fixed-font-family: 'Roboto';
+$fixed-font-family: 'Source Sans Pro';
 $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
 // Headings
-$header-font-weight: $light;
+$header-font-weight: $bold;
 $h1-font-size: 6.125 * $base-font-size;
 $h2-font-size: 5.875 * $base-font-size;
 $h3-font-size: 5 * $base-font-size;
@@ -27,7 +27,7 @@ $h5-font-size: 2.3 * $base-font-size;
 $h6-font-size: 1.875 * $base-font-size;
 
 // Colors
-$main-color: #03a9f4;
+$main-color: #ea272b;
 $link-color: $main-color;
 $link-lighten-amount: 20%;
 $base-background-color: #fff;
@@ -52,6 +52,6 @@ $long-cubic-transition: all .5s cubic-bezier(0.175, 0.885, 0.320, 1.275);
 // Path
 $image-dir: "../img";
 $sprites-dir: $image-dir + "/sprites";
-$logos-sprite: $sprites-dir + "/logos.svg";
+$logos-sprite: $sprites-dir + "/logos1.svg";
 
 @import "modules/all";

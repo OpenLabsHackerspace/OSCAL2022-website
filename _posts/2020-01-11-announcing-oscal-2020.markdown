@@ -3,6 +3,7 @@ layout: post
 title:  "Announcing OSCAL 2020"
 date:   2020-01-11 08:00:00
 isStaticPost: false
+image: Post-1.jpg
 ---
 
 We are delighted to announce that the next edition of Open Source Conference Albania is taking place in the warm city of Tirana on 16th & 17th of May 2020.
@@ -30,7 +31,7 @@ Unfortunately, our biggest fears are becoming a reality. We read more and more r
 It has to start somewhere;
 It has to start sometime;
 What better place than OSCAL in Tirana?
-What better time than 19-20 May 2020?
+What better time than 16-17 May 2020?
 OSCAL 2020: presentations, workshops, community meetups and info booths gathered for #InternetFreedom
 
 Participation and attendance is totally free, though the organizers gratefully accept donations andsponsorship.

@@ -14,7 +14,7 @@
         }
         p {
             font-size: $base-font-size * 2;
-            font-weight: $light;
+            font-weight: $extra-bold;
             margin-bottom: 15px;
         }
         .btn {
@@ -49,6 +49,8 @@
         height: 24px;
     }
 }
+
+
 @keyframes callToAction {
     0% {
         opacity: 0;
