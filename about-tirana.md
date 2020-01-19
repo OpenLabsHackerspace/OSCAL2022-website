@@ -3,7 +3,7 @@ layout: post
 title: About Tirana
 permalink: /about-tirana/
 isStaticPost: true
-image: cod.jpg
+image: Tirana.jpeg
 ---
 
 

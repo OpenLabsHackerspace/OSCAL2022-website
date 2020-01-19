@@ -2077,8 +2077,13 @@ tbody.collapse.in {
 
 .jumbotron h1,
 .jumbotron .h1 {
-	color: black;
+	color: #fff;
   font-weight:300;
+}
+.icon {
+  width: 50px;
+  height: 50px;
+  margin: .5em;
 }
 
 .jumbotron p {
@@ -2800,7 +2805,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-	color: #60ccfd
+	color: #666;
 }
 
 a:hover,
@@ -3391,7 +3396,7 @@ time {
 }
 
 .icon-email:hover {
-	fill: #e34c41
+	fill: #ea272b
 }
 
 .icon-skype:hover {
@@ -3399,11 +3404,11 @@ time {
 }
 
 .icon-github:hover {
-	fill: #464646
+	fill: #ea272b
 }
 
 .icon-twitter:hover {
-	fill: #1bb2e9
+	fill: #ea272b
 }
 
 .icon-youtube:hover {
@@ -3411,7 +3416,7 @@ time {
 }
 
 .icon-facebook:hover {
-	fill: #3c599b
+	fill: #ea272b
 }
 
 .icon-pinterest:hover {
@@ -3438,7 +3443,8 @@ time {
 	position: fixed;
 	z-index: 500;
 	width: 100%;
-	padding: 0 45px
+	padding: 0 45px;
+  padding-bottom: 15px;
 }
 
 .top-header.after-scroll {
