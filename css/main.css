@@ -2754,7 +2754,7 @@ a.waves-effect .waves-ripple {
 body,
 html {
 	font-family:'Source Sans Pro', sans-serif;;
-	font-size: 13px;
+	font-size: 16px;
 	/* font-weight: 300; */
 	width: 100%;
 	height: 100%;
@@ -3351,9 +3351,9 @@ time {
 }
 
 .logo {
-	background-image: url("../img/sprites/logos1.svg");
+	background-image: url("../img/sprites/logos.svg");
 	background-repeat: no-repeat;
-
+  background-size: 400px;
 }
 
 .logo.logo-dark {
@@ -3361,7 +3361,7 @@ time {
 }
 
 .logo.logo-gray {
-	background-position: 0 -63px
+	background-position: 0 -130px
 }
 
 .logo.logo-light {
@@ -3474,8 +3474,8 @@ time {
 .logo-header .logo {
 	display: inline-block;
 	float: left;
-  width: 185px;
-	height: 60px;
+  width: 400px;
+	height: 90px;
 	margin-right: 20px;
 	-webkit-transform: scale(0.7);
 	-ms-transform: scale(0.7);
@@ -3484,8 +3484,8 @@ time {
 }
 
 .logo-navbar {
-	width: 185px;
-	height: 60px;
+	width: 400px;
+	height: 90px;
 	margin: 8px 20px 0 -10px;
 	-webkit-transform: scale(0.6);
 	-ms-transform: scale(0.6);
@@ -3509,7 +3509,8 @@ nav ul {
 	-ms-transform: translateY(40px);
 	transform: translateY(40px);
 	-webkit-transition: all 0.3s;
-	transition: all 0.3s
+	transition: all 0.3s;
+  padding-top: 15px;
 }
 
 .top-header.after-scroll nav ul {
@@ -3525,18 +3526,18 @@ nav li {
 }
 
 nav li a {
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 600;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
 	text-transform: uppercase;
-	color: #fff
+	color: #ea272b;
 }
 
 nav li a.current,
 nav li a:hover {
 	text-decoration: none;
-	color: #cfcfcf
+	color: #ec2427
 }
 
 .top-header.after-scroll nav li a {
@@ -4198,8 +4199,8 @@ nav li a:hover {
 }
 
 .logo-footer {
-	width: 300px;
-	height: 60px;
+	width: 400px;
+	height: 90px;
 	margin: -13px -13px 0;
 	-webkit-transform: scale(0.65);
 	-ms-transform: scale(0.65);
