@@ -60,7 +60,7 @@ rightNavigationButtons:
 heroImage: "oscal-team.jpg"
 heroTitle: "OSCAL <typeout> 2020"
 eventDate: "Open Source Conference Albania, 16-17 May, 2020"
-typeoutTextValues: '"", "Stay Tuned", "Coming Soon"'
+typeoutTextValues: '"", "", "'
 typeoutFallback: "Season"
 heroButtons:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -78,7 +78,7 @@ statisticBlockImage: "statistics.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of FLOSS technologies"}
- - {count: "65", specialCharacter: "+", info: "speakers", detail: "from around the world"}
+ - {count: "70", specialCharacter: "+", info: "speakers", detail: "from around the world"}
  - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "to select fom"}
 
 # Latest News Block

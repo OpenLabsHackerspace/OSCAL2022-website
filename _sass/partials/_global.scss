@@ -163,11 +163,11 @@ time {
 @keyframes base {
     0% {
         transform: rotate(0deg);
-        background-color: #21aa29;
+        background-color: #ea272b;
     }
     25% {
         transform: rotate(90deg);
-        background-color: #2159d6;
+        background-color: #333;
     }
     50% {
         transform: rotate(180deg);
@@ -175,16 +175,16 @@ time {
     }
     75% {
         transform: rotate(270deg);
-        background-color: #ffcf00;
+        background-color: #666;
     }
     100% {
         transform: rotate(360deg);
-        background-color: #21aa29;
+        background-color: #ea272b;
     }
 }
 @keyframes reveal {
     0% {
-        background-color: #2159d6;
+        background-color: #333;
         transform: rotate(0deg);
     }
     25% {
@@ -192,31 +192,31 @@ time {
         transform: rotate(180deg);
     }
     50% {
-        background-color: #ffcf00;
+        background-color: #555;
         transform: rotate(0deg);
     }
     75% {
-        background-color: #21aa29;
+        background-color: #ea272b;
         transform: rotate(180deg);
     }
     100% {
-        background-color: #2159d6;
+        background-color: #333;
         transform: rotate(0deg);
     }
 }
 @keyframes flip {
     0% {
-        background-color: #21aa29;
+        background-color: #ea272b;
         transform: rotateY(0deg);
     }
     12.5%, 87.56% {
-        background-color: #105514;
+        background-color: #333;
     }
     12.51%, 37.5% {
-        background-color: #102c6b;
+        background-color: #ec5c7b;
     }
     25% {
-        background-color: #2159d6;
+        background-color: #333;
     }
     37.51%, 62.5% {
         background-color: #6b1204;
@@ -225,13 +225,13 @@ time {
         background-color: #d62408;
     }
     62.51%, 87.5% {
-        background-color: #7f6700;
+        background-color: #ec5c7b;
     }
     75%, 78% {
-        background-color: #ffcf00;
+        background-color: #666;
     }
     100% {
-        background-color: #21aa29;
+        background-color: #ea272b;
         transform: rotateY(-720deg);
     }
 }
