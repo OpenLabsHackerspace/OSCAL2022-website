@@ -79,7 +79,7 @@ statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of FLOSS technologies"}
  - {count: "70", specialCharacter: "+", info: "speakers", detail: "from around the world"}
- - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "to select fom"}
+ - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "to select from"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
