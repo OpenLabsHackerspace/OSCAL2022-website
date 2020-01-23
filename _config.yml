@@ -44,9 +44,9 @@ c4sponsorsUrl: "/assets/OSCAL_2020_Prospectus.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/about-tirana/", text: "Attending"}
- # - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
