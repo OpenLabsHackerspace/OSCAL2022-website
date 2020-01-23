@@ -36,8 +36,8 @@ twitterAccount: "@OSCALconf"
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-#c4pUrl: "https://bit.ly/dfua-c4p"
-#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://cfp.openlabs.cc/oscal-2020/cfp"
+c4sponsorsUrl: "/assets/OSCAL_2020_Prospectus.pdf"
 
 
 # Navigation
@@ -52,9 +52,9 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}-->
 bottomNavigationLinks:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/assets/OSCAL_2020_Prospectus.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/assets/OSCAL_2020_Prospectus.pdf", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "oscal-team.jpg"
@@ -63,8 +63,8 @@ eventDate: "Open Source Conference Albania, 16-17 May, 2020"
 typeoutTextValues: '"", "", "'
 typeoutFallback: "Season"
 heroButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- #- {permalink: "/#tickets", text: "Buy tickets"}
+- {link: "https://cfp.openlabs.cc/oscal-2020/cfp", text: "Become a speaker"}
+- {permalink: "/assets/OSCAL_2020_Prospectus.pdf", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About OSCAL"
