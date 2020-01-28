@@ -46,6 +46,7 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
+ - {permalink: "/media/", text: "Media"}
  - {permalink: "/about-tirana/", text: "Attending"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/team/", text: "Team"}
