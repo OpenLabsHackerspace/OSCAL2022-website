@@ -3,7 +3,7 @@ layout: post
 title:  "Call for info-booths is now open"
 date:   2020-01-31 08:00:00
 isStaticPost: false
-image: Post-1.jpg
+image: infobooths-background.jpg
 ---
 
 
