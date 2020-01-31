@@ -17,7 +17,7 @@ Please be aware that the topic of your info-booth MUST be related with open know
 Open Source Conference Albania is the first annual international conference in Albania organized to promote software freedom, open source software, free culture and open knowledge.
 It is organized by Open Labs, a non governmental, not for profit organization, dedicated to promote openness, freedom, transparency and access by amplifying its voice as a community altogether.
 
-Date: 16-17 May 2019 (Saturday + Sunday)  
+Date: 16-17 May 2020 (Saturday + Sunday)  
 Deadline for Info-booth applications: 01.04.2020  
 
 <button class="button-save large"><a href="https://cfp.openlabs.cc/o2i20/cfp" target="_blank">APPLY NOW</a></button>
