@@ -55,7 +55,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {permalink: "/assets/OSCAL_2020_Prospectus.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "/assets/OSCAL_2020_Prospectus.pdf", text: "Become a speaker"}
+ - {link: "https://cfp.openlabs.cc/oscal-2020/cfp", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "oscal-team.jpg"
