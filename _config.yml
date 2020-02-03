@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "OSCAL 2020"
 email: "oscal@openlabs.cc"
@@ -16,9 +15,6 @@ description: "OSCAL is the annual international Open Source Free Software Confer
 baseurl: ""
 url: "https://oscal.openlabs.cc"
 permalink: "/blog/:title"
-#googleAnalyticsTrackingId: "UA-43643469-5"
-#googleAnalyticsSiteUrl: "gdg-x.github.io"
-#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Open Labs"
@@ -39,7 +35,6 @@ twitterAccount: "@OSCALconf"
 c4pUrl: "https://cfp.openlabs.cc/oscal-2020/cfp"
 c4sponsorsUrl: "/assets/OSCAL_2020_Prospectus.pdf"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
@@ -55,7 +50,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {permalink: "/assets/OSCAL_2020_Prospectus.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "https://cfp.openlabs.cc/oscal-2020/cfp", text: "Become a speaker"}
+ - {link: "https://osc.al/cfp", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "oscal-team.jpg"
@@ -64,7 +59,7 @@ eventDate: "Open Source Conference Albania, 16-17 May, 2020"
 typeoutTextValues: '"", "", "'
 typeoutFallback: "Season"
 heroButtons:
-- {link: "https://cfp.openlabs.cc/oscal-2020/cfp", text: "Become a speaker"}
+- {link: "https://osc.al/cfp", text: "Become a speaker"}
 - {permalink: "/assets/OSCAL_2020_Prospectus.pdf", text: "Become a sponsor"}
 
 # About Block
