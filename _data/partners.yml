@@ -8,6 +8,6 @@
 #   elements:
 
 -
-  group: "Supporters"
+  group: "Sticker Sponsor"
   elements:
     - {name: "Stickermule", description: "Stickermule", link: "https://www.stickermule.com", imageUrl: "sticker-mule-logo.svg"}
