@@ -1,5 +1,5 @@
 -
-  group: "Patinium sponsor"
+  group: "Platinium sponsor"
   elements:
     - {name: "openSUSE", description: "openSUSE", link: "https://www.opensuse.org/", imageUrl: "opensuse.svg"}
 
