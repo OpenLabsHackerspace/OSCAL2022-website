@@ -7,14 +7,18 @@ image: Tirana.jpeg
 ---
 
 
+Tirana is the capital of Albania. It lies in the center of our country and it is considered a city of religious coexistence, as well as the center of culture, art, politics, and the economy. Tirana became the capital of Albania in 1920 and 1/3 of the populations lives there nowdays. It is known for its colorful Ottoman, Fascist and Soviet-era architecture.
 
-Tirana is the capital of Albania. It lies in the center of our country and it is considered a city of religious coexistence, as well as the center of culture, art, politics, and the economy. Tirana became the capital of Albania in 1920 with more than 763,634 inhabitants today. It is an old settlement as confirmed by the Mosaic of Tirana, which was part of an old Roman villa build in the III century. One famous building is the Clock Tower in the center of Tirana, which was built in XIX century, between 1822 – 1840.
+One famous building is the [Clock Tower](https://commons.wikimedia.org/wiki/Category:Clock_Tower_of_Tirana)  in the center of Tirana, which was built in XIX century, between 1822 – 1840. [Scanderbeg Square](https://en.wikipedia.org/wiki/Skanderbeg_Square) is the main plaza in the city center named afer Albania National hero.
 
-Part of the cultural heritage of the city are also the old houses, which are known as the real architectural ensemble of the historical core of Tirana. Just to mention a few, the house of Toptanas was built in XVIII century, the house of Sali Shijaku in 1400, the house of Bunec in XVII, and the mosque in the center of the city was built in 1793.
+More details about Tirana can be found at the [Wikipedia article](https://en.wikipedia.org/wiki/Tirana).
+
+![Skanderbeg Square](https://upload.wikimedia.org/wikipedia/commons/e/e6/Smile_Tirana.jpg)
 
 #### TRAVELING TO ALBANIA
 
-The only airport in Albania with international service is “Mother Theresa” International Airport located in Rinas, just 17 km northwest of Tirana. The most convenient way to get from the airport to Tirana is by taxi. The journey from Tirana to the airport takes twenty to thirty minutes, depending on traffic, and costs about 2,500 ALL (or 20 EURO) each way. The “Rinas Express” departs every hour between 7am and 7pm. It is a 12-hour bus service between the airport and the National Museum in the center of Tirana. The bus departs hourly and the single fare is 250 ALL (approx. 2 EURO), the bus leaves you behind the Palace of Culture of Tirana at the center. Mobile phone: +355 69 20 98908
+The only airport in Albania with international service is “Mother Theresa” International Airport located in Rinas, just 17 km northwest of Tirana. The most convenient way to get from the airport to Tirana is by taxi. The journey from Tirana to the airport takes twenty to thirty minutes, depending on traffic, and costs about 2,500 ALL (or 20 EUR) each way. The “Rinas Express” departs every hour between 7am and 7pm. The bus departs hourly  from the aiport and the single fare is 250 ALL (approx. 2 EUR), the bus leaves you behind the [Palace of Culture of Tirana](https://www.openstreetmap.org/?mlat=41.32900&mlon=19.82039#map=19/41.32900/19.82039) at the center.  
+*Mobile phone* : +355 69 20 98908
 
 #### “Mother Teresa” airport
 
@@ -32,23 +36,17 @@ The city centre is small enough to be explored through walking. Walking is a rew
 
 ####   By Taxi
 
-The fastest way to get around is by taxi. Public transportation is not always reliable and doesn’t run after 8 or 10-11 p.m depending on the line. Some of the services you can use from the biggests companies here are:
-– MerrTaxi – Number: +355 67400 6610 , You can also use the taxi fair calulator online: http://merrtaxi.com/tirana-taxi-fare-calculator.
-– SpeedTaxi – Fixed line: 04 222 2555 Website: http://speedtaxi.al/
-– GreenTaxi – Fixed line: 0800 2000
+Getting around is by taxi is a comfortable and value for money way. Public transportation is not always reliable and doesn’t run after 8 or 10-11 p.m depending on the line. Some of the services we propose are:  
+*GreenTaxi* - Mobile: +355 69 800 2000,  (use the same number for WhatsApp), website green.al.  
+*MerrTaxi* - Mobile: +355 67400 6610 , You can also use the taxi fair calulator online: merrtaxi.com/tirana-taxi-fare-calculator.  
+*SpeedTaxi* - Mobile: +355 69 64 22 211, Website: speedtaxi.al  
 
-Costs for a taxi are are not too expensive and generally range from 2-6€.
+Costs for a taxi are are not too expensive and generally range from 2-6€. Note: Do not enter a taxi without a taxi meter!  
 Note: Do not enter a taxi without a taxi meter!
 
 ####   By bicycle
 
-The Ecovolis bicycle sharing program was launched in 2011. Bicycles can be rented from a number of locations at Rinia Park and along Deshmoret e Kombit Boulevard. A full-day ride costs 100 lek. The system is not electronic in that you must interact with a salesperson. Bicycles should be returned to the station of origin. Ecovolis also offers bikes for longer 24/7 rentals at the shop.
-
-Mobike, a mean of shared transportation was also introduced in Tirana last year. You can get one by downloading the app, and the cost for one trip is 39 ALL for 20 min of biking. The bikes are available in different locations on the city, and you can check them up through the app.
-
-For all other bike equipment or repairs, Rruga Qemal Stafa is Tirana’s unofficial “bike street” with lots of little, inexpensive bike shops. New combined bus and bike lanes have been opened recently on some main streets. Bike-only lanes are located on Skanderbeg Square, Deshmoret e Kombit Boulevard and on sidewalks along Lana River and Kavaja Street. However, cycling in the main street can be quite dangerous as lanes are narrow or occupied by parked vehicles (but car drivers have become more careful during the last few years).
-
-You can install “Tirana Ime” for Android on Google Play, an application that will help you related transport (bicycle lanes, public urban, public interurban, taxi, parking), tourism, traffic and cleaning in Tirana.
+Moving around the city by bike might be the best way to go to your destination, but you need to be quite careful and be safe. For all other bike equipment or repairs, Rruga Qemal Stafa is Tirana’s (location: [link](https://osm.org/go/xexSwKz1L--?m=)) unofficial “bike street” with lots of little, inexpensive bike shops. New combined bus and bike lanes have been opened recently on some main streets. Bike-only lanes are located on Skanderbeg Square, Deshmoret e Kombit Boulevard and on sidewalks along Lana River and Kavaja Street. However, cycling in the main street can be quite dangerous as lanes are narrow or occupied by parked vehicles (but car drivers have become more careful during the last few years) and a lot of pedestrians jump in.
 
 ####  Local currency
 
@@ -63,3 +61,5 @@ The SIM card costs 200-500 ALL (around 2-3 EUR), depending on plans you choose, 
 You will need to have a passport in order to buy the number.
 
 Also if not buying a number be carefull with roaming usage. Some of our speakers have  been charged a lot previously.
+
+![Scanderbeg Square](https://upload.wikimedia.org/wikipedia/commons/1/1e/Skanderbeg_square_from_the_Municipality_building_rooftop.jpeg)
