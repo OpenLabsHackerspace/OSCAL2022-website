@@ -66,3 +66,22 @@
 p .button-save {
   width: 100%;
 }
+.form ul li {
+  padding-bottom: 15px;
+}
+
+.time {
+  span {
+    display: block ruby;
+  }
+
+  label {
+    padding-left: 10px;
+  }
+}
+
+.form {
+  textarea, #media-name, #language, #website, #location, #full-name, #email, #phone-nr {
+    width: 100%;
+  }
+}
