@@ -3,7 +3,7 @@ layout: post
 title:  "Call for Media Partners"
 date:   2020-02-25 08:00:00
 isStaticPost: false
-image: infobooths-background.jpg
+image: media-post.jpg
 ---
 
 OSCAL is a unique opportunity for Albanian, regional and international companies, brands and institutions to get exposed to young tech enthusiasts, experienced developers, hacktivists and the next generation of the free libre open source community.
