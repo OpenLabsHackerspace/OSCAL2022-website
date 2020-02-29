@@ -16,7 +16,7 @@ Website: oscal.openlabs.cc
 Contact: oscal@openlabs.cc
 
 &nbsp;
-##### Collaboration
+##### **Collaboration**
 
 What OSCAL offers to your Media:
 - Advertisement of the website logo in promotional materials
@@ -31,7 +31,7 @@ What Media offers to OSCAL:
 &nbsp;
 &nbsp;
 
-##### Fill the form below
+##### **Fill the form below**
 
 
 <form action="https://formspree.io/xwkbpywo" method="POST">

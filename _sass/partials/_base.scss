@@ -1,16 +1,16 @@
 @import "compass";
 
 // Font weights
-$light: 100;
-$regular: 300;
-$bold: 500;
-$extra-bold: 600;
+$light: 300;
+$regular: 400;
+$bold: 600;
+$extra-bold: 700;
 
 // Base Font
 $base-font-family: sans-serif;
 $base-font-weight: $bold;
-$base-font-size: 14px;
-$base-line-height: 23px;
+$base-font-size: 16px;
+$base-line-height: 24px;
 
 // Fixed Font
 $fixed-font-family: 'Source Sans Pro';
@@ -18,13 +18,13 @@ $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
 // Headings
-$header-font-weight: $bold;
-$h1-font-size: 6.125 * $base-font-size;
-$h2-font-size: 5.875 * $base-font-size;
-$h3-font-size: 5 * $base-font-size;
-$h4-font-size: 3.125 * $base-font-size;
-$h5-font-size: 2.3 * $base-font-size;
-$h6-font-size: 1.875 * $base-font-size;
+$header-font-weight: $regular;
+$h1-font-size: 32px;
+$h2-font-size: 28px;
+$h3-font-size: 24px;
+$h4-font-size: 20px;
+$h5-font-size: 16px;
+$h6-font-size: 12px;
 
 // Colors
 $main-color: #ea272b;

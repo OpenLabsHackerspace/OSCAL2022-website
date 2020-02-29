@@ -13,11 +13,11 @@ If your answer to one of the questions above is ‘yes’ , then you definitely 
 
 Please be aware that the topic of your info-booth MUST be related with open knowledge, open source software and/or hardware, software freedom or generally open culture. You are free to propose more than one booth also, in separate submissions. For further inquiries, please feel free to contact the organizing team: oscal@openlabs.cc
 
-##### About OSCAL  
+##### **About OSCAL**
 Open Source Conference Albania is the first annual international conference in Albania organized to promote software freedom, open source software, free culture and open knowledge.
 It is organized by Open Labs, a non governmental, not for profit organization, dedicated to promote openness, freedom, transparency and access by amplifying its voice as a community altogether.
 
 Date: 16-17 May 2020 (Saturday + Sunday)  
 Deadline for Info-booth applications: 01.04.2020  
 
-<button class="button-save large"><a href="https://cfp.openlabs.cc/o2i20/cfp" target="_blank">APPLY NOW</a></button>
+<a href="https://cfp.openlabs.cc/o2i20/cfp" target="_blank"><button class="button-save large">APPLY NOW</button></a>
