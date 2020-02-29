@@ -36,12 +36,12 @@ The city centre is small enough to be explored through walking. Walking is a rew
 ####   **By Taxi**
 
 Getting around is by taxi is a comfortable and value for money way. Public transportation is not always reliable and doesn’t run after 8 or 10-11 p.m depending on the line. Some of the services we propose are:  
-*GreenTaxi* - Mobile: +355 69 800 2000,  (use the same number for WhatsApp), website green.al.  
-*MerrTaxi* - Mobile: +355 67400 6610 , You can also use the taxi fair calulator online: merrtaxi.com/tirana-taxi-fare-calculator.  
-*SpeedTaxi* - Mobile: +355 69 64 22 211, Website: speedtaxi.al  
+*GreenTaxi* - Mobile: +355 69 800 2000,  (use the same number for WhatsApp), website [green.al](http://green.al).  
+*MerrTaxi* - Mobile: +355 67400 6610 , You can also use the taxi fair calulator online: [merrtaxi.com/tirana-taxi-fare-calculator](http://merrtaxi.com/tirana-taxi-fare-calculator).  
+*SpeedTaxi* - Mobile: +355 69 64 22 211, Website: [speedtaxi.al](http://speedtaxi.al/).
 
-Costs for a taxi are are not too expensive and generally range from 2-6€. Note: Do not enter a taxi without a taxi meter!  
-Note: Do not enter a taxi without a taxi meter!
+Costs for a taxi are are not too expensive and generally range from 2-6€.  
+*Note:* Do not enter a taxi without a taxi meter!
 
 #### **By bicycle**
 
@@ -57,8 +57,24 @@ You can get an Albanian SIM card at the airport, in one of the shops at the airp
 
 The SIM card costs 200-500 ALL (around 2-3 EUR), depending on plans you choose, it also has left money you can use to communicate or buy a package which is a good deal to not spend during your stay here.  
 
-You will need to have a passport in order to buy the number.
+You will need to have a passport in order to buy the number. Also if not buying a number be carefull with roaming usage. Some of our speakers have  been charged a lot previously.
 
-Also if not buying a number be carefull with roaming usage. Some of our speakers have  been charged a lot previously.
+#### **ATTRACTIONS**
+#### **National Museum**
+[The National Historical Museum](http://www.mhk.gov.al) in Tirana is the country’s largest museum. It was opened on 28 October 1981 and is 27,000 square meters in size, while 18,000 square meters are available for expositions. The gigantic mosaic appearing at the main entrance is entitled The Albanians.
+#### **Et’hem Bey Mosque**
+This place of worship was completed in the early-19th century and is one of the city’s top landmarks. At the fall of communism it was the site of one of the most remarkable events in Tirana’s recent history, when on the 10th of January 1991 10,000 people gathered to practise their religion, against the decree of the authorities who had banned Islam for almost half a century. In the end there was no police interference and the event marked a turning for religious freedom in Albania. The outer walls of this [Et'hem Bey Mosque](https://en.wikipedia.org/wiki/Et%27hem_Bey_Mosque) are unusual  as they depict idyllic scenery such as forests and waterfalls, which aren’t normally permitted in Islamic art.
+#### **The National Gallery of Arts**
+[National Art Gallery of Albania](https://en.wikipedia.org/wiki/National_Museum_of_Fine_Arts_(Albania)) (Albanian: Galeria Kombetare e Arteve) has a fund of over 4,000 works of art by Albanian and foreign authors, spanning seven centuries of Albanian cultural heritage. he museum preserves over 5000 artworks. Besides the permanent collection which is focused on Socialist Realism art, famous Albanian artists, international ones and important collections have been part of the different exhibitions in the National Gallery of Arts.
+#### **National Archaeological Museum**
+[The National Archaeological Museum](https://en.wikipedia.org/wiki/National_Museum_of_Archaeology,_Albania) is the first museum founded after the World War II in Albania. In the beginning, it was opened in 1948 as a Ethnographic-Archeological Museum. Its artifacts cover a period of more than 5,000 years, from Prehistoric age through Ancient Illyrians, Greeks, the Middle Ages up to Modern times. The museum is divided into five sections, which contains various exhibitions collected from all over the country.
+#### **Bunk'art Museum**
+In 1983, approximately 173,371 concrete bunkers were scattered throughout the country under the Communism. [The Bunk'art Musesum](http://bunkart.al/2/home) is situated inside an atomic bunker of the dictator Enver Hoxha, near the Deshmoret e Kombit Boulevard. It is dedicated to the Communism in Albania and to the daily lives of Albanians during the regime. It also hosts exhibitions that combine the modern history of the nation with contemporary art.
+#### **Mother Teresa Square**
+[The Mother Teresa Square](https://en.wikipedia.org/wiki/Mother_Teresa_Square_(Tirana)) is the largest square in the capital. It was named after the Albanian Roman Catholic nun, missionary and nobelist Mother Teresa. The square was planned by the Italian Gherardo Bosio, during the Italian occupation of Albania in a Rationalist style. The square lies on the north-end of the Dëshmorët e Kombit Boulevard.  
+#### **New Bazaar**
+[New Bazaar](https://en.wikipedia.org/wiki/New_Bazaar,_Tirana) is a neighbourhood of the city. It forms a part of the Old Town of Tirana. The name of the neighbourhood stems from the groceries marketplace (Albanian: Pazar), which is situated in the area.
+#### **Mount Dajti**
+If you want to move a few km out from the city center, [Mount Dajti National Park](https://en.wikipedia.org/wiki/Dajti_Mountain) is considered by the people of Tirana as the Natural Balcony of Tirana. In winter, the mountain is often covered with snow, and it is a popular retreat to the local population of Tirana that rarely sees snow falls. The mountain can be reached through the Dajti Express cable car. Mountain slopes are densely vegetated mostly by sturdy pines and beech trees.
 
-![Scanderbeg Square](https://upload.wikimedia.org/wikipedia/commons/1/1e/Skanderbeg_square_from_the_Municipality_building_rooftop.jpeg)
+![Mount Dajti](https://upload.wikimedia.org/wikipedia/commons/8/86/Tirana_Albania_pano_2004-07-14.jpg)
