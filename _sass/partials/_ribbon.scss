@@ -33,7 +33,7 @@ $wt-ribbon-border-color: #72e1b3;
     }
     .ribbon {
         font-size: 13px;
-        font-weight: 300;
+        font-weight: 400;
         line-height: 22px;
         display: inline-block;
         float: right;
@@ -50,21 +50,21 @@ $wt-ribbon-border-color: #72e1b3;
     }
     .abbr {
         .ribbon-activator:hover & {
-            transform: translateX(100%); 
+            transform: translateX(100%);
             @media (max-width: 767px) {
-                transform: translateX(0);    
-            }   
-        }    
+                transform: translateX(0);
+            }
+        }
     }
     .full-title {
         clear: both;
         margin-top: -22px;
         transform: translateX(100%);
         .ribbon-activator:hover & {
-            transform: translateX(0);   
+            transform: translateX(0);
             @media (max-width: 767px) {
-                transform: translateX(100%);    
-            } 
-        } 
+                transform: translateX(100%);
+            }
+        }
     }
 }
