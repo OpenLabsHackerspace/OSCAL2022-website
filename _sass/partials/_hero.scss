@@ -11,6 +11,10 @@
         h2 {
           font-weight: $bold;
         }
+        .date-title{
+          margin-bottom: 30px;
+
+        }
         @media (max-width: 767px) {
             margin: 0;
             padding: 0;
@@ -21,7 +25,6 @@
             margin-bottom: 15px;
         }
         h2{
-          margin-bottom: 30px;
           font-size: 24px;
         }
         .btn {
