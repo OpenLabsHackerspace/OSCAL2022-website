@@ -54,10 +54,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "oscal-team.jpg"
-heroTitle: "OSCAL <typeout> 2020"
-eventDate: "Open Source Conference Albania, 16-17 May, 2020"
+heroTitle: "Open Source Conference Albania, 16-17 May, 2020"
+eventDate: ""
 typeoutTextValues: '"", "", "'
-typeoutFallback: "Season"
+typeoutFallback: ""
 heroButtons:
 - {link: "https://osc.al/cfp", text: "Become a speaker"}
 - {permalink: "/assets/OSCAL_2020_Prospectus.pdf", text: "Become a sponsor"}

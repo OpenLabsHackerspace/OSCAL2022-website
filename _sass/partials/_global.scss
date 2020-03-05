@@ -53,7 +53,7 @@ a {
 h1 {
     font-size: $h1-font-size;
     @media (max-width: 767px) {
-        font-size: $h1-font-size * 60 / 100;
+        font-size: $h1-font-size * 75 / 100;
     }
 }
 h2 {
