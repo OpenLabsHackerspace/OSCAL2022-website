@@ -2,11 +2,11 @@
 <section id="blog" class="blog">
     <div class="content-wrapper text-left">
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
-            <h3>{{ site.blogTitle }}</h3>
+            <h2>{{ site.blogTitle }}</h2>
             <div class="col-lg-8 col-md-10 col-xs-12">
                 {% for post in site.posts %}
                     <article class="row post">
-                        <a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
+                        <a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
                         <div class="post-header">
                             <div class="published col-md-6 col-xs-6 pull-left">
                                 <span class="caption">Posted:</span>
@@ -39,7 +39,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
+                        <p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">read the full post</a></p>
                     </article>
                 {% endfor %}
 

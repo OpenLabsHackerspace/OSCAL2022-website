@@ -1,4 +1,4 @@
-# Open Source Conference Albania 2020
+# Open Source Conference Albania 2022
 
 ### About
 OSCAL (Open Source Conference Albania) is the first annual conference in Albania organized to promote software freedom, open source software, free culture and open knowledge, a global movement that originally started more than 30 years ago.

@@ -10,7 +10,7 @@
 		{% for block in site.footerBlocks %}
         {% assign colWidth = 12 | divided_by: forloop.length %}
 		<div class="col-md-{{ colWidth }} col-xs-6">
-			<h5>{{ block.title }}</h5>
+			<h2 class="footer-headings">{{ block.title }}</h2>
 			<ul>
 				{% for linkElement in block.links %}
 				<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
@@ -24,7 +24,7 @@
 			<ul class="social-links">
 				{% for social in site.socialLinks %}
 				<li>
-					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
+					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank" aria-label="{{social.icon}}">
 						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
 							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
 						</svg>
@@ -38,7 +38,7 @@
 		<!-- Please don't delete this line-->
 		<div class="col-md-12">
 			<p class="copyright">
-				&copy; 2014 - 2020 by <a href="https://openlabs.cc">Open Labs Hackerspace</a>. Website structure based on <a href="https://github.com/gdg-x/zeppelin" target="_blank">Project Zeppelin</a>. Improve this site <a href="https://github.com/OpenLabsHackerspace/OSCAL2020-website"><svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
+				&copy; 2014 - 2022 by <a href="https://openlabs.cc">Open Labs Hackerspace</a>. Website structure based on <a href="https://github.com/gdg-x/zeppelin" target="_blank">Project Zeppelin</a>. Improve this site on <a href="https://github.com/OpenLabsHackerspace/OSCAL2020-website" aria-label="Github"><svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
 					<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-github"></use>
 				</svg></a>
 			</p>

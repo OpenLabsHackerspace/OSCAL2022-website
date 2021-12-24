@@ -3,12 +3,12 @@
     transition: $base-cubic-transition;
 }
 .btn-primary {
-    color: #fff !important;
+    color: #fff;
     user-select: none;
     text-transform: uppercase;
     border: 0;
     font-weight: bold;
-    background: $primary-color !important;
+    background: $primary-color;
     &:hover, &:focus, &:active, &.active {
         outline: none;
         color: #fff;

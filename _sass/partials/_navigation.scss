@@ -8,6 +8,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     z-index: 500;
     width: 100%;
     padding: 0 45px;
+    min-height: unset;
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
@@ -102,7 +103,7 @@ nav {
             display: block;
         }
         a {
-            font-size: $base-font-size;
+            font-size: 1.6rem;
             font-weight: $extra-bold;
             transition: $base-transition;
             text-transform: uppercase;
@@ -151,6 +152,7 @@ nav {
     }
     &.right-nav-button-hidden {
         opacity: 0;
+        visibility: hidden;
         transform: translateY(-50px);
     }
 }

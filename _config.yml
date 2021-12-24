@@ -9,7 +9,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "OSCAL 2020"
+title: "OSCAL 2022"
 email: "oscal@openlabs.cc"
 description: "OSCAL is the annual international Open Source Free Software Conference in Albania dedicated to empowering Software Freedom, Open Knowledge, Free Culture and Decentralization."
 baseurl: ""
@@ -54,7 +54,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "oscal-team.jpg"
-heroTitle: "Open Source Conference Albania 2020"
+heroTitle: "Open Source Conference Albania 2022"
 eventDate: "New date coming soon"
 typeoutTextValues: '"", "", "'
 typeoutFallback: ""
@@ -65,9 +65,9 @@ heroButtons:
 # About Block
 aboutTitle: "About OSCAL"
 aboutBlock:
- - {title: "Presentations", image: "presentations.jpg", text: " " }
- - {title: "Workshops", image: "workshops.jpg", text: "" }
- - {title: "Info-booths", image: "infobooths.jpg", text: "" }
+ - {title: "Presentations", image: "presentations.jpg", altText: "", text: " " }
+ - {title: "Workshops", image: "workshops.jpg", altText: "", text: "" }
+ - {title: "Info-booths", image: "infobooths.jpg", altText: "", text: "" }
 
 # Statistic Block
 statisticBlockImage: "statistics.jpg"
@@ -114,7 +114,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "OSCAL-moments.jpg"
 tweetsFeedTitle: "Hashtag:"
-twitterHashTag: "OSCAL2020"
+twitterHashTag: "OSCAL2022"
 # twitterFeed: ""
 
 # Partners Block

@@ -1,5 +1,5 @@
 $footer-background-color: #fcfcfc;
-$footer-links-color: #8b8b8b;
+$footer-links-color: #7b7b7b;
 
 .footer {
     padding: 40px 52px 13px;
@@ -8,7 +8,7 @@ $footer-links-color: #8b8b8b;
     @media (max-width: 767px) {
         padding: 26px 20px 13px;
     }
-    h5 {
+    .footer-headings {
         font-size: 18px;
     }
     ul {

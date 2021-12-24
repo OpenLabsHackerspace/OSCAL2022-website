@@ -9,7 +9,7 @@ $extra-bold: 700;
 // Base Font
 $base-font-family: sans-serif;
 $base-font-weight: $bold;
-$base-font-size: 16px;
+$base-font-size: 62.5%;
 $base-line-height: 24px;
 
 // Fixed Font
@@ -19,9 +19,9 @@ $fixed-line-height: $base-line-height;
 
 // Headings
 $header-font-weight: $regular;
-$h1-font-size: 32px;
-$h2-font-size: 28px;
-$h3-font-size: 24px;
+$h1-font-size: 28px;
+$h2-font-size: 24px;
+$h3-font-size: 20px;
 $h4-font-size: 20px;
 $h5-font-size: 16px;
 $h6-font-size: 12px;
@@ -33,7 +33,7 @@ $link-lighten-amount: 20%;
 $base-background-color: #fff;
 $base-section-background-color: $link-color;
 $primary-color: #ea272b;
-$primary-color-hover: #3266d5;
+$primary-color-hover: #c40e14;
 $icon-fill-color: #8b8b8b;
 
 // Sizes
