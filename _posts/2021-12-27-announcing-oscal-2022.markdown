@@ -31,8 +31,8 @@ Unfortunately, our biggest fears are becoming a reality. We read more and more r
 It has to start somewhere;  
 It has to start sometime;  
 What better place than OSCAL in Tirana?  
-What better time than 16-17 May 2020?  
-OSCAL 2020: presentations, workshops, community meetups and info booths gathered for #InternetFreedom
+What better time than 16-17 May 2022?  
+OSCAL 2022: presentations, workshops, community meetups and info booths gathered for #InternetFreedom
 
 Participation and attendance is totally free, though the organizers gratefully accept donations and sponsorship.
 Further details and calls for participation will be announced in the coming weeks.
