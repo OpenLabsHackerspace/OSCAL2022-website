@@ -43,6 +43,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/media/", text: "Media"}
  - {permalink: "/about-tirana/", text: "Attending"}
+ - {permalink: "/covid-19/", text: "COVID19 Info"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}

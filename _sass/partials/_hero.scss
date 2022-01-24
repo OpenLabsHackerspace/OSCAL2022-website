@@ -17,8 +17,11 @@
           font-size: 24px;
         }
         .date-title{
-          margin-bottom: 30px;
-
+          margin-bottom: 15px;
+        }
+        .covid-19-link a{
+          color: white;
+          text-decoration: underline;
         }
         @media (max-width: 767px) {
             margin: 0;
