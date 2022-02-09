@@ -1,0 +1,37 @@
+---
+layout: default
+title: CFS is now open
+permalink: /sponsors/
+modal: all
+image: Post-1.jpg
+---
+{% include top-section.html %}
+
+<section id="sponsors" class="partners">
+    <div class="content-wrapper text-left">
+        <div class="col-md-10 col-sm-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1">
+            <p>OSCAL Organizing Committee 2022 invites you to consider sponsoring the annual conference and gathering of the open source community in Tirana. As you know our organizing team is volunteer based and despite our great desire and motivation to do the work, delivering a successful edition is also dependent upon support from our sponsors and partners.</p>
+
+            <p>We offer potential sponsors seven different tiers to support the event and in return we will offer exposure and presence through our communication channel. On the prospectus below you can find all the necessary information about sponsorship packages, but however if you have more questions or would like to support us on another way, please contact the organizing team at oscal(at)openlabs.cc</p>
+
+            <div class="partner-list text-center">
+                <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+
+                {% for partner in site.data.partners %}
+                <h2 class="partner-group">{{ partner.group }}</h2>
+                <ul class="list-inline">
+                    {% for element in partner.elements %}
+                    <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                        <a href="{{ element.link }}" target="_blank">
+                            <img src="/img/partners/{{ element.imageUrl }}" alt="{{ element.name }}">
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endfor %}
+            </div>
+            
+        </div>
+    </div>
+</section>
+
