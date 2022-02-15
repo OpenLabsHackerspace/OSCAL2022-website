@@ -62,7 +62,7 @@ typeoutTextValues: '"", "", "'
 typeoutFallback: ""
 heroButtons:
 - {link: "https://osc.al/cfp", text: "Become a speaker"}
-- {permalink: "/assets/OSCAL_2020_Prospectus.pdf", text: "Become a sponsor"}
+- {permalink: "https://osc.al/sponsor", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About OSCAL"
