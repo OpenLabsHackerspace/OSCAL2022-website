@@ -39,7 +39,7 @@ c4sponsorsUrl: "https://osc.al/sponsor"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
- #- {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/media/", text: "Media"}
  - {permalink: "/sponsors/", text: "Sponsors"}
