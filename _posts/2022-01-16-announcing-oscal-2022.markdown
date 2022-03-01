@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Announcing OSCAL 2022"
-date:   2022-01-16 00:00:00
+title: "Announcing OSCAL 2022"
+date: 2022-01-16 00:00:00
 isStaticPost: false
 image: Post-1.jpg
 ---
@@ -12,12 +12,13 @@ We are delighted to announce that we are bringing OSCAL back on the weekend of *
 
 This is the **7th edition of the conference**. Unfourtunately, we had to cancel the edition for 2020 because of the pandemic, but we are looking forward to this edition to bring again together floss friends from different communities.
 
-Further details and calls for participation will be announced in the coming weeks. Stay tunned! As always you can follow us on our social media:  
-* Twitter: [@OSCALconf](https://twitter.com/OSCALconf)  
-* Instagram: [@oscalconf](https://www.instagram.com/oscalconf)
+Further details and calls for participation will be announced in the coming weeks. Stay tunned! As always you can follow us on our social media:
+
+- Twitter: [@OSCALconf](https://twitter.com/OSCALconf)
+- Instagram: [@oscalconf](https://www.instagram.com/oscalconf)
 
 Contact information:
 
-Email: [oscal(at)openlabs.cc](mailto:oscal(at)openlabs.cc)
+Email: [oscal(at)openlabs.cc](<mailto:oscal(at)openlabs.cc>)
 
 OSCAL is organized by [Open Labs Albania](https://openlabs.cc/en/), a non governmental, not for profit organization, dedicated to promote openness, freedom, transparency and decentralization by amplifying its voice as a community altogether.

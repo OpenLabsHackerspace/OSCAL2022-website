@@ -26,6 +26,8 @@ With more and more reports about internet shutdowns, domain names being blocked,
 
 Keep in mind this year dates are 18-19 of June. If you have any questions please do not hesitate to contact the team at email: [oscal(at)openlabs.cc](mailto:oscal@openlabs.cc)
 
+Deadline for applications is April 19!
+
 <p class="text-center">
 <a href="https://osc.al/cfp" class="btn btn-primary waves-effect waves-button waves-light waves-float">APPLY NOW</a>
 </p>
