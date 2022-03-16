@@ -18,5 +18,5 @@ Date: 18-19 June 2022 (Saturday + Sunday)
 Deadline for Info-booth applications: 01.05.2022
 
 <p class="text-center">
-<a href="https://cfp.openlabs.cc/o2i22/cfp" class="btn btn-primary waves-effect waves-button waves-light waves-float">APPLY NOW</a>
+<a href="https://osc.al/cfi" class="btn btn-primary waves-effect waves-button waves-light waves-float">APPLY NOW</a>
 </p>
