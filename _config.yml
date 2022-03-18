@@ -58,6 +58,7 @@ rightNavigationButtons:
 heroImage: "oscal-team.jpg"
 heroTitle: "Open Source Conference Albania 2022"
 eventDate: "18-19 June"
+eventCity: "Tirana"
 typeoutTextValues: '"", "", "'
 typeoutFallback: ""
 heroButtons:
