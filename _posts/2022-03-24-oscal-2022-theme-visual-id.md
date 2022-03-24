@@ -11,7 +11,9 @@ The World Wide Web, an amazing tool used to share knowledge, information and one
 
 <figure>
     <img src="/img/oscal-2022-visual-id-min.png" alt="OSCAL 2022 poster: Internet freedom FTW/WTF">
-    <figcaption>Official OSCAL2022 poster. Artist: Kleidi Eski. Download high res image <a href="https://cloud.openlabs.cc/s/rotKAEZPE7MoHAW?dir=undefined&path=%2FOscal22_Poster&openfile=339499" target="_blank">here</a></figcaption>
+    <figcaption>Official OSCAL2022 poster. Artist: 
+    <a href="http://lightandmoving.com/" target="_blank">Kleidi Eski</a>. 
+    Download high res image <a href="https://cloud.openlabs.cc/s/rotKAEZPE7MoHAW?dir=undefined&path=%2FOscal22_Poster&openfile=339499" target="_blank">here</a></figcaption>
 </figure>
 <br />
 
