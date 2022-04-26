@@ -1,0 +1,20 @@
+.media-partners-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 15px;
+
+    &.container::before, &.container::after {
+        display: none;
+    }
+
+    @media (max-width: 600px) {
+        grid-template-columns: 1fr;
+        grid-gap: 40px;
+        padding: 40px;
+    }
+}
+.media-partner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
