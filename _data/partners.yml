@@ -3,9 +3,17 @@
   elements:
     - {name: "openSUSE", description: "openSUSE", link: "https://www.opensuse.org/", imageUrl: "opensuse.svg"}
 
-# -
-#   group: "Partners"
-#   elements:
+- 
+
+  group: "Silver sponsor"
+  elements:
+  - { name: "Fedora", description: "Fedora", link: "https://getfedora.org/", imageUrl: "Fedora_logo.png" }
+
+- 
+
+  group: "Bronze sponsor"
+  elements:
+  - { name: "HomeZone", description: "HomeZone", link: "https://homezone.al/", imageUrl: "homezone_logo_al.svg" }
 
 -
   group: "Sticker Sponsor"
