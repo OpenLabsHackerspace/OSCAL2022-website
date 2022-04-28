@@ -30,6 +30,6 @@ b. Make a transfer to this paypal account: oscal@openlabs.cc
 
 📌 For t-shirts we will contact you for the size of the t-shirt once you get a ticket that includes it.
 
-📌 You can always support the local hackersace via Patreon: <a href="https://www.patreon.com/OpenLabsAlbania" target="_blank">https://www.patreon.com/OpenLabsAlbania</a>
+📌 You can always support the local hackerspace via Patreon: <a href="https://www.patreon.com/OpenLabsAlbania" target="_blank">https://www.patreon.com/OpenLabsAlbania</a>
 
 📌 Questions? Do not hesitate to reach out at <a href="mailto:oscal@openlabs.cc">oscal@openlabs.cc</a>
