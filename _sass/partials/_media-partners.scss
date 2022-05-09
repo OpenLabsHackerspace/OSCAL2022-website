@@ -7,6 +7,10 @@
         display: none;
     }
 
+    // @media (max-width: 780px) and (min-width: 510px) {
+    //     grid-template-columns: repeat(3, 1fr);
+    // }
+
     @media (max-width: 600px) {
         grid-template-columns: 1fr;
         grid-gap: 40px;

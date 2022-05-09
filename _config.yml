@@ -63,7 +63,7 @@ eventCity: "Tirana"
 typeoutTextValues: '"", "", "'
 typeoutFallback: ""
 heroButtons:
-- {link: "https://osc.al/cfp", text: "Become a speaker"}
+- {link: "https://events.openlabs.cc/e/15/oscal-2022", text: "Get your ticket"}
 - {permalink: "https://osc.al/sponsor", text: "Become a sponsor"}
 
 # About Block
