@@ -72,7 +72,7 @@ h1 {
 h2 {
     font-size: $h2-font-size;
     @media (max-width: 767px) {
-        font-size: $h2-font-size * 60 / 100;
+        // font-size: $h2-font-size * 60 / 100;
     }
 }
 h3 {
