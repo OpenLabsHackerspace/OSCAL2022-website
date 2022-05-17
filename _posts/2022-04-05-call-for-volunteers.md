@@ -9,7 +9,7 @@ image: Volunteers_OSCAL_2019_photo_3.jpg
 Did you know that internet was built on open source software?
 And not only, but Linux, Mozilla, VLC Media player and Python (yes, the programming language) are only a few software from the Open Source World.
 
-For the 8th time, Open Source Conference Albania (OSCAL) is back in Tirana during the weekend of June 18-19.
+For the 7th time, Open Source Conference Albania (OSCAL) is back in Tirana during the weekend of June 18-19.
 Whether you are an open source software contributor or totally clueless - but you would like to use your skills and time to bring OSCAL to life - we have a place for you.
 
 Volunteers help with all kind of activities during the event: registration of participants, assisting speakers and participants, keeping social media channels up to date, taking photos for social media, distributing information at the event etc.
@@ -24,7 +24,7 @@ Please click the button below to fill in your application.
 <a href="https://docs.google.com/forms/d/1NbF6_sCnXP5381hMsNJIDR8FTFe-N2T1wd_lMgNmHk8/edit" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">APPLY NOW</a>
 </p>
 
-Deadline for applications is 16.05.2022.  
+Deadline for applications is 22.05.2022.  
 More info about the conference: <a href="https://oscal.openlabs.cc/">oscal.openlabs.cc</a>
 
 Note:  
