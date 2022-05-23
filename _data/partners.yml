@@ -5,9 +5,16 @@
 
 - 
 
+  group: "Gold sponsor"
+  elements:
+  - { name: "Xestra", description: "Xestra", link: "https://www.zextras.com/", imageUrl: "xestra_logo.svg" }
+
+- 
+
   group: "Silver sponsor"
   elements:
   - { name: "Fedora", description: "Fedora", link: "https://getfedora.org/", imageUrl: "Fedora_logo.png" }
+  - { name: "LibreOffice", description: "LibreOffice", link: "https://www.libreoffice.org/", imageUrl: "LibreOffice_logo.png" }
 
 - 
 
@@ -19,3 +26,8 @@
   group: "Sticker Sponsor"
   elements:
     - {name: "Stickermule", description: "Stickermule", link: "https://www.stickermule.com", imageUrl: "sticker-mule-logo.svg"}
+
+-
+  group: "Supporter"
+  elements:
+    - {name: "phpList", description: "phpList", link: "https://www.phplist.com/", imageUrl: "phpList_logo.png"}

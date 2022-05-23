@@ -35,6 +35,13 @@
         .btn {
             margin: 0 3px;
         }
+        .hero-button-links {
+            @media screen and (max-width: 500px){
+                display: block;
+                margin: 15px auto;
+                width: 70%;
+            }
+        }
     }
 }
 .typeout-fallback {

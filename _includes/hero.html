@@ -9,10 +9,10 @@
               <h2 class="date-title">{{ site.eventDate }}, {{ site.eventCity }}</h2>
               <p>
                   {% for button in site.heroButtons %}
-                  <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+                  <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float hero-button-links" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
                   {% endfor %}
               </p>
-              <p class="covid-19-link"><a href="/covid-19">COVID19 rules during the event</a></p>
+              <!-- <p class="covid-19-link"><a href="/covid-19">COVID19 rules during the event</a></p> -->
           </div>
       </div>
       <a href="#about" class="explore" aria-label="Explore">
