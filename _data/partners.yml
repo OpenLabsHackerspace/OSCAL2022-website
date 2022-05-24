@@ -30,4 +30,5 @@
 -
   group: "Supporter"
   elements:
+    - {name: "Tirana European Youth Capital", description: "Tirana European Youth Capital", link: "https://tiranaeyc2022.al/", imageUrl: "TEYC_logo.png"}
     - {name: "phpList", description: "phpList", link: "https://www.phplist.com/", imageUrl: "phpList_logo.png"}
