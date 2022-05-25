@@ -8,6 +8,7 @@
   group: "Gold sponsor"
   elements:
   - { name: "Xestra", description: "Xestra", link: "https://www.zextras.com/", imageUrl: "xestra_logo.svg" }
+  - { name: "EU for Innovation", description: "EU for Innovation", link: "https://euforinnovation.al/", imageUrl: "EU_for_Innovation_logo.png" }
 
 - 
 
