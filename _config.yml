@@ -44,8 +44,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/media/", text: "Media"}
  - {permalink: "/sponsors/", text: "Sponsors"}
+ - {permalink: "/venue/", text: "Venue"}
  - {permalink: "/about-tirana/", text: "Attending"}
- - {permalink: "/covid-19/", text: "COVID19 Info"}
+#  - {permalink: "/covid-19/", text: "COVID19 Info"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
@@ -196,6 +197,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/covid-19/", text: "Covid 19 Info"}
 
 # Blog
 blogTitle: "Latest news"

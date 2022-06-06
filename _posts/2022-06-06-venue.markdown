@@ -1,0 +1,43 @@
+---
+layout: post
+title: "OSCAL 2022 venue announcement"
+date: 2022-06-06 00:00:00
+isStaticPost: false
+image: Venue.png
+---
+
+<p>
+When we started organizing OSCAL, 7 editions ago, the organizing team insisted on hosting it at public spaces. 
+</p>
+
+<p>
+Inspired from other similar events in Europe, hosting the conference at a public university would make more sense than other options. In the first edition, we managed to do so by organising the event at Godina Liria, a property of University of Tirana. Our experience with it: a real struggle in many aspects - mainly logistical, but also getting commitment and support from public universities in Tirana. 
+We were not the only ones having such issues, as the Students protests of 2019 demonstrated. These protests proved that 'the commons' are struggling, not only in the digital space but also in the public/physical areas of our lives. 
+</p>
+
+<p>
+These are only some of the reasons that the topic of finding a venue for our conference is probably the most discussed among the members of the organizing committee. This year too, we tried our best to find public schools and universities that are considered appropriate to facilitate this edition of OSCAL, but, unfortuantely, we reached the same outcome. Nonetheless, after many emails and meetings and internal discussions we decided to host OSCAL at a venue that has not been used previously in any of the editions of the conference, which offers the infrastructure needed for a successful 7th edition: Tirana European Youth Capital HQ located in the city center: 
+</p>
+<address>Bulevardi Zogu i Pare, rr. Papa Kristo Negovani, pall. Li-Em, shkalla 1, kati 2.</address>
+    
+View on <a href="https://osm.org/go/xexSa4ujI?m=">openstreetmaps.org</a>
+
+<p>
+The venue is in a brand new building, inside the city center ring and close to the  major city attractions. It is also the place where the team work on implementing activities related to the 'Tirana European Youth Capital' initiate The venue features:
+</p>
+<ul>
+    <li>a main presentation room </li>
+    <li>two workshop rooms (for parallel tracks)</li>
+    <li>lunch and socializing area</li>
+    <li>a very nice bakery in the ground floor of the building for those coffee breaks. </li>
+</ul>
+
+<p>
+All rooms will feature projectors, ethernet plugs and wifi. Interested in joining #OSCAL2022? Don't forget to get your ticket today: <a href="https://osc.al/register" target="_blank">https://osc.al/register</a> . In case you have specific questions don't hesitate to contact the organising team at <a href="mailto:oscal@openlabs.cc">oscal(at)openlabs.cc</a>.
+</p>
+
+<p>
+See you during 18-19 June 2022 :)
+</p>
+
+<img src="/img/sections-background/Venue.png" alt="Poster indicating the location of the venue. Bulevardi Zogu i Pare, rr. Papa Kristo Negovani, pall. Li-Em, shkalla 1, kati 2. Design from Kleidi Eski."/>
