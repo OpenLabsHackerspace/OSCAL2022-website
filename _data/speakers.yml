@@ -2,7 +2,7 @@
   id: 1
   name: "Anton"
   surname: "Sankov"
-  company: "FSFE"
+  company: ""
   title: "Securing Kubernetes with Open Policy Agent "
   bio: "Anton is a software engineer, currently employed by VMware Carbon Black, working with Go and Kubernetes. For the past year, his focus has been mostly on Security and building easy-to-use security products. He is passionate about writing clean idiomatic high-quality Go code and security . && Anton is a software engineer, currently employed by VMware Carbon Black, working with Go and Kubernetes. For the past year, his focus has been mostly on Security and building easy-to-use security products. He is passionate about writing clean idiomatic high-quality Go code and security && boris got no info"
   thumbnailUrl: "AntonSankov.png"
@@ -94,17 +94,6 @@
   title: "Metaverse, the future shaped by Babylon.js"
   bio: "Engjell is an European Entrepreneur and serial founder based in Tirana, Albania.  In 2015, he founded division5, a software development agency focused on delivering world-class software services in a fast and reliable way. He currently hold the position of CEO at the company.  In 2019, division5 closed an investment and partnership deal with PIRATE.Global becoming part of the PIRATE.Global family. Through this agreement, division5 aims to extend division5’s services world-wide.   From 2019 onwards, he is the Albanian Ambassador for PIRATE Summit. As Ambassador, his focus is to bridge the Albanian startup ecosystem players with Pirate Summit.  In 2020, he co-founded INTRO.chat, a platform aiming to provide the networking section of remote events by bringing its participants together in a chat-roulette fashion. The vision of the platform was to bridge business people with complementary interests together.  In Summer 2021, he co-founded KODO, a software academy aiming to train people with coding skills in cutting-edge technologies such as ReactJs, NodeJs or Unity3D. KODO aims to not only train developers in the latest technologies but also to bridge them with entrepreneurs aiming to fuel the startup's ecosystem with new startups.  In September 2021, he took the role of Lead Organizer for Google Developers Group Albania. His duty as community lead, is to expand the community by empowering it and it's members. In 2022, he co-founded BEEZ.agency, a 3D boutique aiming to provide 3D development, design and marketing services for companies in Western Europe and the US."
   thumbnailUrl: ""
-  # rockstar: true
-  social:
-    - {name: "twitter", link: ""}
--
-  id: 11
-  name: "Irdi"
-  surname: "Ismaili"
-  company: "Organizata Politike"
-  title: "Migrating from big tech to open source - how our org did it!"
-  bio: "Irdi has been an activist focused in social issues such as education and workers rights since 2017. The last years he has developed growing concerns about the status of surveillance capitalism at a global and local level. Following these concerns Irdi has been part of the team at OP that woked on migrating the digital infrastructure of the organisation from proprietary to open source platforms. The last months he has migrated from proprietary operating systems to GNU/Linux."
-  thumbnailUrl: "Irdi_Ismaili.png"
   # rockstar: true
   social:
     - {name: "twitter", link: ""}
