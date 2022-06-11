@@ -65,7 +65,6 @@ typeoutTextValues: '"", "", "'
 typeoutFallback: ""
 heroButtons:
 - {link: "https://events.openlabs.cc/e/15/oscal-2022", text: "Get your ticket"}
-- {permalink: "https://osc.al/sponsor", text: "Become a sponsor"}
 - {permalink: "/open-susse-summit/", text: "openSUSE Summit"}
 
 # About Block
