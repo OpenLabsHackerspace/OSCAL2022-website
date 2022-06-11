@@ -28,7 +28,8 @@
                             </figure>
                         </div>
                         <div class="lily-bottom">
-                            <ul class="slider">
+                            {{ speaker.title }}
+                            <!-- <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
                                 {% if site.showSessions %}
                                     {% for session in site.data.sessions %}
@@ -44,13 +45,13 @@
                                     <p class="position">{{ speaker.company }}</p>
                                 {% endif %}
                             </ul>
-                            <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a>
+                            <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a> -->
                         </div>
                     </div>
                 </div>
                 {% endfor %}
             </div>
-            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>
+            <!-- <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a> -->
         </div>
     </div>
 </section>

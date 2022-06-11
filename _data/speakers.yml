@@ -1,12 +1,264 @@
-# -
-#   id: 3
-#   name: ""
-#   surname: ""
-#   company: ""
-#   title: ""
-#   bio: ""
-#   thumbnailUrl:
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: ""}
-# -
+-
+  id: 1
+  name: "Anton"
+  surname: "Sankov"
+  company: "FSFE"
+  title: "Securing Kubernetes with Open Policy Agent "
+  bio: "Anton is a software engineer, currently employed by VMware Carbon Black, working with Go and Kubernetes. For the past year, his focus has been mostly on Security and building easy-to-use security products. He is passionate about writing clean idiomatic high-quality Go code and security . && Anton is a software engineer, currently employed by VMware Carbon Black, working with Go and Kubernetes. For the past year, his focus has been mostly on Security and building easy-to-use security products. He is passionate about writing clean idiomatic high-quality Go code and security && boris got no info"
+  thumbnailUrl: "AntonSankov.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 4
+  name: "Besjana"
+  surname: "Muraku"
+  company: ""
+  title: "Jenkins in Kubernetes for Startups (Case Study)"
+  bio: ""
+  thumbnailUrl: "BesjanaMuraku.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 5
+  name: "Boris"
+  surname: "Stoyanov"
+  company: ""
+  title: "Getting started with Go"
+  bio: "Anton is a software engineer, currently employed by VMware Carbon Black, working with Go and Kubernetes. For the past year, his focus has been mostly on Security and building easy-to-use security products. He is passionate about writing clean idiomatic high-quality Go code and security."
+  thumbnailUrl: "BorisStoyanov.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 6
+  name: "Chris"
+  surname: "Chinchilla"
+  company: ""
+  title: "Open Broadcast Studio in an hour"
+  bio: "Tech writer for  @chronosphereio . Podcaster, video maker, writer of interactive fiction & games"
+  thumbnailUrl: "ChrisChinchilla.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 7
+  name: "Dan"
+  surname: "Cermak"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: "DanCermak.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 8
+  name: "Douglas"
+  surname: "DeMaio"
+  company: "openSUSE"
+  title: ""
+  bio: ""
+  thumbnailUrl: "Douglas_DeMaio.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 9
+  name: "Elger"
+  surname: "Jonker"
+  company: ""
+  title: "May Contain Hackers, what are hacker camps and what can they do for you?"
+  bio: "Stitch is co-organizer for the MCH2022 hacker camp. Has also helped set up SHA2017 and does all kinds of things, for example helped build the design generator, work on the permit and spend office days organizing all kinds of stuff. In the past Stitch helped set up hackerspaces Hack42 and Awesome Space in the Netherlands."
+  thumbnailUrl: "ElgerJonker.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 10
+  name: "Endri"
+  surname: "Xhukellari"
+  company: ""
+  title: "Digital Forensics and Incident Response"
+  bio: "Endri Xhukellari, 26 years old, graduated for Computer Mathematics, Alexander Xhuvani University. Currently working as Windows SysAdmin. {Capability: Linux & Windows SysAdmin + NodeJS}. He will perform DFIR {Digital Forensics and Incident Response}. The whole laboratory will be created by him. Just take a pad and a pencil."
+  thumbnailUrl: "Endri_Xhukellari.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 3
+  name: "Engjell"
+  surname: "Rraklli"
+  company: ""
+  title: "Metaverse, the future shaped by Babylon.js"
+  bio: "Engjell is an European Entrepreneur and serial founder based in Tirana, Albania.  In 2015, he founded division5, a software development agency focused on delivering world-class software services in a fast and reliable way. He currently hold the position of CEO at the company.  In 2019, division5 closed an investment and partnership deal with PIRATE.Global becoming part of the PIRATE.Global family. Through this agreement, division5 aims to extend division5’s services world-wide.   From 2019 onwards, he is the Albanian Ambassador for PIRATE Summit. As Ambassador, his focus is to bridge the Albanian startup ecosystem players with Pirate Summit.  In 2020, he co-founded INTRO.chat, a platform aiming to provide the networking section of remote events by bringing its participants together in a chat-roulette fashion. The vision of the platform was to bridge business people with complementary interests together.  In Summer 2021, he co-founded KODO, a software academy aiming to train people with coding skills in cutting-edge technologies such as ReactJs, NodeJs or Unity3D. KODO aims to not only train developers in the latest technologies but also to bridge them with entrepreneurs aiming to fuel the startup's ecosystem with new startups.  In September 2021, he took the role of Lead Organizer for Google Developers Group Albania. His duty as community lead, is to expand the community by empowering it and it's members. In 2022, he co-founded BEEZ.agency, a 3D boutique aiming to provide 3D development, design and marketing services for companies in Western Europe and the US."
+  thumbnailUrl: ""
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 11
+  name: "Irdi"
+  surname: "Ismaili"
+  company: "Organizata Politike"
+  title: "Migrating from big tech to open source - how our org did it!"
+  bio: "Irdi has been an activist focused in social issues such as education and workers rights since 2017. The last years he has developed growing concerns about the status of surveillance capitalism at a global and local level. Following these concerns Irdi has been part of the team at OP that woked on migrating the digital infrastructure of the organisation from proprietary to open source platforms. The last months he has migrated from proprietary operating systems to GNU/Linux."
+  thumbnailUrl: "Irdi_Ismaili.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 12
+  name: "Italo"
+  surname: "Vignoli"
+  company: "The Document Foundation"
+  title: "Open Source and Open Standards for Digital Sovereignty; Software Heritage, the global OSS archive"
+  bio: "Italo Vignoli is a founding member of The Document Foundation and the LibreOffice project, the Chairman Emeritus of Associazione LibreItalia, an Ambassador of Software Heritage, and a proud member of Free Software Foundation Europe (FSFE). He is a past board member of Open Source Initiative (OSI). Italo co-leads LibreOffice marketing, PR and media relations, co-chairs the LibreOffice Certification Program, and is a spokesman for the project. He also handles advocacy and marketing activities for the Open Document Format ISO standard. He has contributed to several large migration projects to LibreOffice, and is a LibreOffice certified migrator and trainer since 2014. From 2004 to 2010 he has been involved in the OOo project. In his professional life, he is a marketing consultant with more than four decades of experience in high tech PR, and a visiting professor of marketing, public speaking and PR post-graduate courses. Italo has a Degree in Humanities at the University of Milan, based on a typewritten thesis in human geography (well before the PC era) and MBAs in Marketing, Public Relations and Journalism. Italo was born on August 12, 1954, at 6PM CET, 27 years before the announcement of the IBM PC in Boca Raton, Florida, on August 12, 1981, at noon EST. Shortly after, he was hired by the second largest computer company to manage high tech PR. Coincidence, or destiny?"
+  thumbnailUrl: "ItaloVignoli.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 13
+  name: "Johannes"
+  surname: "Segitz"
+  company: "openSUSE"
+  title: ""
+  bio: ""
+  thumbnailUrl: "JohannesSegitz.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 14
+  name: "Julita"
+  surname: "Inca"
+  company: "Fedora"
+  title: "A look at the Security Features of GNOME on Fedora "
+  bio: "I am a Fedora Ambassador and GNOME Member Foundation since 2012.HPC Software Specialist of UKAEA, Master in HPC at the University of Edinburgh, Master in Computer Science PUCP and System Engineering degree."
+  thumbnailUrl: "JulitaInca.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 15
+  name: "Katrin"
+  surname: "Murr"
+  company: "openSUSE"
+  title: ""
+  bio: ""
+  thumbnailUrl: "KatrinMurr.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 16
+  name: "Klesti"
+  surname: "Fetiu"
+  company: "openSUSE"
+  title: "TOR"
+  bio: "Klesti Fetiu is a young cyber security enthusiast with focus on red teaming. He is graduating bachelor for Computer science and currently working as a professional security engineer. You can see him and his scooter around Tirana together with his HSA's team friends and on other days in open labs hackerspace trying to break things."
+  thumbnailUrl: "KlestiFetiu.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 17
+  name: "Lars"
+  surname: "Haefner"
+  company: "Wikipedia"
+  title: "Censorship of Wikipedia"
+  bio: "Long term Wikipedian mostly active in German Wikipedia and with strong focus on promoting Albania. Content creator and expert for Albania since almost 30 years."
+  thumbnailUrl: "LarsHaefner.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 2
+  name: "Lucas"
+  surname: "Lasota"
+  company: "FSFE"
+  title: "Device Neutrality - Making Free Software accesible in devices"
+  bio: "FSFE's legal project manager. Master and PhD in Law. Researcher and Lecturer at the Humboldt University of Berlin"
+  thumbnailUrl: "LucasLasota.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 18
+  name: "Lum"
+  surname: "Ramabaja"
+  company: "Wikipedia"
+  title: "Hypersyn: A Peer-to-Peer System for Mutual Credit"
+  bio: "Lum co-founded Open Cybernetics, an entity focused on inventing new types peer-to-peer protocols. He is also the project lead at Xfai, a DeFi startup that has come up with a brand new design for more efficient DEXs. Lum has a bachelor’s degree in bioinformatics with a specialization in machine learning from the Johannes Kepler University in Linz, and is currently pursuing a master's in artificial intelligence, with focus on invariant representation learning."
+  thumbnailUrl: "LumRamabaja.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 19
+  name: "Mariana"
+  surname: "Balla"
+  company: "phpList"
+  title: "Open Source for business"
+  bio: "Mariana holds a bachelor's and a master's degree in Information and Communication Technology (ICT) granted by the Faculty of Natural Sciences, University of Tirana. She is engaged in the role of a Product Owner at phpList Ltd, where she leads the development of the company's software. For the past five years, she has been a member of Open Labs Hackerspace, an organization based in Tirana that aims to promote in Albania and in the wider region free and open source technologies, open data, open standards, online privacy and the empowerment of public domain."
+  thumbnailUrl: "MarianaBalla.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 20
+  name: "Martin"
+  surname: "Pluskal"
+  company: "openSUSE"
+  title: ""
+  bio: ""
+  thumbnailUrl: "MartinPluskal.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 21
+  name: "Mike"
+  surname: "Saunders"
+  company: "The Document Foundation"
+  title: "What's going on in the LibreOffice community?"
+  bio: "Mike Saunders is the Community and Marketing coordinater at The Document Foundation, the non-profit behind LibreOffice. He has been using free and open source software since 1998, starting with Red Hat Linux 5.1!"
+  thumbnailUrl: "Mike_Saunders.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 22
+  name: "Nathan"
+  surname: "Coyle"
+  company: "New Union"
+  title: "Using open data to be better disrupters, lessons learned on outreach and decoding it's language"
+  bio: "Nathan Coyle FRSA is the Director of the UK-based civic innovation organisation, New Union. Over the past 5 years, Nathan has been working on the issue of why the language around open data is so confusing and how it is affecting take up from the third sector. On open data and community outreach policy, he has worked with the Governments of the UK, Scotland, Colombia, Kenya, Germany, Romania, Slovakia, Palestinian Authority, Brazil, Canada, Czech Republic, and more."
+  thumbnailUrl: "NathanCoyle.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 23
+  name: "Nevis"
+  surname: "Shkenza"
+  company: ""
+  title: "Jenkins in Kubernetes for Startups (Case Study)"
+  bio: "Nevis has graduated from University of Ontario, Canada and since then has been working on startup market to apply best practices on devops culture."
+  thumbnailUrl: "NevisShkenza.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 24
+  name: "Vincent"
+  surname: "W.J. van Gerven Oei"
+  company: "punctum books"
+  title: "Open Access and Open Infrastructure "
+  bio: "Vincent W.J. van Gerven Oei is co-director of scholar- and queer-led open access press punctum books. He is also a specialist of Old Nubian and loves cats."
+  thumbnailUrl: "Vincent.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}

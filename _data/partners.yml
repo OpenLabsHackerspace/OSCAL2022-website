@@ -22,6 +22,7 @@
   group: "Bronze sponsor"
   elements:
   - { name: "HomeZone", description: "HomeZone", link: "https://homezone.al/", imageUrl: "homezone_logo_al.svg" }
+  - { name: "Engage Technology", description: "Engage Technology", link: "https://engage-technology.net/", imageUrl: "engage-logo.png" }
 
 -
   group: "Sticker Sponsor"
