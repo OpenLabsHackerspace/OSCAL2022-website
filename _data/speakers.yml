@@ -10,7 +10,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 4
+  id: 2
   name: "Besjana"
   surname: "Muraku"
   company: ""
@@ -21,7 +21,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 5
+  id: 3
   name: "Boris"
   surname: "Stoyanov"
   company: ""
@@ -32,7 +32,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 6
+  id: 4
   name: "Chris"
   surname: "Chinchilla"
   company: ""
@@ -43,13 +43,35 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 7
+  id: 5
   name: "Dan"
   surname: "Cermak"
   company: ""
   title: ""
   bio: ""
   thumbnailUrl: "DanCermak.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 6
+  name: "Danjela"
+  surname: "Lura"
+  company: "GNU Guix"
+  title: "Deep Learning from a Student's Perspective"
+  bio: "Danjela is a fresh computer science undergraduate who is very keen on open source projects and communities. She has been part of the Outreachy 2020 internship program working with the Guix community on the Guix Data Service. In the past she has been involved in initiatives that improve diversity and inclusion within the tech communities that she has been part of. Danjela is a Lisp lover and has a special place in her heart for Clojure. Has recently joined Acrolinx as a Software Engineer."
+  thumbnailUrl: "DanjelaLura.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 7
+  name: "Dashamir"
+  surname: "Hoxha"
+  company: ""
+  title: "Manage your own DNS"
+  bio: "Dashamir is a Computer Engineer with more than 20 years experience in software engineering, Linux server administration, network configuration, technical documentation writing, etc. He always tries to automate things with scripts, in order to make difficult and complex tasks easier for everyone. He enjoys sharing his knowledge with the others by writing technical blogs and making presentations."
+  thumbnailUrl: "Dashamir_Hoxha.png"
   # rockstar: true
   social:
     - {name: "twitter", link: ""}
@@ -87,18 +109,40 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 3
+  id: 11
   name: "Engjell"
   surname: "Rraklli"
   company: ""
   title: "Metaverse, the future shaped by Babylon.js"
   bio: "Engjell is an European Entrepreneur and serial founder based in Tirana, Albania.  In 2015, he founded division5, a software development agency focused on delivering world-class software services in a fast and reliable way. He currently hold the position of CEO at the company.  In 2019, division5 closed an investment and partnership deal with PIRATE.Global becoming part of the PIRATE.Global family. Through this agreement, division5 aims to extend division5’s services world-wide.   From 2019 onwards, he is the Albanian Ambassador for PIRATE Summit. As Ambassador, his focus is to bridge the Albanian startup ecosystem players with Pirate Summit.  In 2020, he co-founded INTRO.chat, a platform aiming to provide the networking section of remote events by bringing its participants together in a chat-roulette fashion. The vision of the platform was to bridge business people with complementary interests together.  In Summer 2021, he co-founded KODO, a software academy aiming to train people with coding skills in cutting-edge technologies such as ReactJs, NodeJs or Unity3D. KODO aims to not only train developers in the latest technologies but also to bridge them with entrepreneurs aiming to fuel the startup's ecosystem with new startups.  In September 2021, he took the role of Lead Organizer for Google Developers Group Albania. His duty as community lead, is to expand the community by empowering it and it's members. In 2022, he co-founded BEEZ.agency, a 3D boutique aiming to provide 3D development, design and marketing services for companies in Western Europe and the US."
-  thumbnailUrl: ""
+  thumbnailUrl: "EngjellRaklli.png"
   # rockstar: true
   social:
     - {name: "twitter", link: ""}
 -
   id: 12
+  name: "Gerjan"
+  surname: "Lleshaj"
+  company: "Cloud68"
+  title: "How to setup Nextcloud on a docker container"
+  bio: "Gerjan is a junior system administrator at Cloud68. He enjoys working with container and virtualization technologies. On the side he likes to participate in CTF-s and learn more about malware analysis"
+  thumbnailUrl: "GerjanLleshaj.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 13
+  name: "Hila"
+  surname: "Fish"
+  company: "Wix"
+  title: "Open-Source: Open Choice - A DevOps Guide for OSS Adoption; Terraform Practices - The Good, the Bad, and the Ugly"
+  bio: "Hila Fish is a Senior DevOps Engineer @ Wix. Co-organizer of DevOps-related events. DevOps Community Advocate. Mentoring and helping out wherever possible."
+  thumbnailUrl: "Hila_Fish.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 14
   name: "Italo"
   surname: "Vignoli"
   company: "The Document Foundation"
@@ -109,7 +153,18 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 13
+  id: 15
+  name: "Joana"
+  surname: "Meraja"
+  company: ""
+  title: "Learning how to create subtitles with Gnome Subtitles"
+  bio: "I studied Psychology and I'm an activist. Recently I was exposed to open source technology and I'm passionate about making video content accessible to everyone."
+  thumbnailUrl: "JoanaMeraja.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 16
   name: "Johannes"
   surname: "Segitz"
   company: "openSUSE"
@@ -120,7 +175,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 14
+  id: 17
   name: "Julita"
   surname: "Inca"
   company: "Fedora"
@@ -131,7 +186,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 15
+  id: 18
   name: "Katrin"
   surname: "Murr"
   company: "openSUSE"
@@ -142,7 +197,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 16
+  id: 19
   name: "Klesti"
   surname: "Fetiu"
   company: "openSUSE"
@@ -153,7 +208,18 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 17
+  id: 20
+  name: "Kristi"
+  surname: "Çunga"
+  company: ""
+  title: "The state of facial recognition technology: DIY stuff to trick the surveillance cameras"
+  bio: "I have studied at the University of Tirana, Faculty of Natural Sciences and in 2015 I get a BA degree in Physics. Then, I changed my career path to the creative industry. Currently, I'm working as a digital designer and art director at McCann Tirana. For more than 8 years I am a political activist with a focus on digital human rights, ethical tech, artificial intelligence and open-source technology."
+  thumbnailUrl: ""
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 21
   name: "Lars"
   surname: "Haefner"
   company: "Wikipedia"
@@ -164,7 +230,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 2
+  id: 22
   name: "Lucas"
   surname: "Lasota"
   company: "FSFE"
@@ -175,7 +241,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 18
+  id: 23
   name: "Lum"
   surname: "Ramabaja"
   company: "Wikipedia"
@@ -186,7 +252,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 19
+  id: 24
   name: "Mariana"
   surname: "Balla"
   company: "phpList"
@@ -197,7 +263,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 20
+  id: 25
   name: "Martin"
   surname: "Pluskal"
   company: "openSUSE"
@@ -208,7 +274,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 21
+  id: 26
   name: "Mike"
   surname: "Saunders"
   company: "The Document Foundation"
@@ -219,7 +285,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 22
+  id: 27
   name: "Nathan"
   surname: "Coyle"
   company: "New Union"
@@ -230,7 +296,7 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 23
+  id: 28
   name: "Nevis"
   surname: "Shkenza"
   company: ""
@@ -241,7 +307,18 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 24
+  id: 29
+  name: "Rei"
+  surname: "Arifi"
+  company: ""
+  title: "Containerization and orchestration for fun and profit"
+  bio: "I have been an IT professional for 3 years and a DevOps engineer professionally for 2 years. I started my career in information technology because of my passion for Linux and Open Source."
+  thumbnailUrl: "ReiArifi.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 30
   name: "Vincent"
   surname: "W.J. van Gerven Oei"
   company: "punctum books"
