@@ -3,8 +3,8 @@
   name: "Anton"
   surname: "Sankov"
   company: ""
-  title: "Securing Kubernetes with Open Policy Agent "
-  bio: "Anton is a software engineer, currently employed by VMware Carbon Black, working with Go and Kubernetes. For the past year, his focus has been mostly on Security and building easy-to-use security products. He is passionate about writing clean idiomatic high-quality Go code and security . && Anton is a software engineer, currently employed by VMware Carbon Black, working with Go and Kubernetes. For the past year, his focus has been mostly on Security and building easy-to-use security products. He is passionate about writing clean idiomatic high-quality Go code and security && boris got no info"
+  title: "Securing Kubernetes with Open Policy Agent; Getting started with Go"
+  bio: "Anton is a software engineer, currently employed by VMware Carbon Black, working with Go and Kubernetes. For the past year, his focus has been mostly on Security and building easy-to-use security products. He is passionate about writing clean idiomatic high-quality Go code and security."
   thumbnailUrl: "AntonSankov.png"
   # rockstar: true
   social:
@@ -26,7 +26,7 @@
   surname: "Stoyanov"
   company: ""
   title: "Getting started with Go"
-  bio: "Anton is a software engineer, currently employed by VMware Carbon Black, working with Go and Kubernetes. For the past year, his focus has been mostly on Security and building easy-to-use security products. He is passionate about writing clean idiomatic high-quality Go code and security."
+  bio: ""
   thumbnailUrl: "BorisStoyanov.png"
   # rockstar: true
   social:
