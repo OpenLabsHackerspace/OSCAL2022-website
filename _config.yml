@@ -40,6 +40,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {link: "https://cfp.openlabs.cc/oscal2022/schedule/", text: "Agenda"}
  - {permalink: "/open-susse-summit/", text: "OpenSuse Summit"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/media/", text: "Media"}
@@ -65,6 +66,7 @@ typeoutTextValues: '"", "", "'
 typeoutFallback: ""
 heroButtons:
 - {link: "https://events.openlabs.cc/e/15/oscal-2022", text: "Get your ticket"}
+- {link: "https://cfp.openlabs.cc/oscal2022/schedule/", text: "Conference Agenda"}
 - {permalink: "/open-susse-summit/", text: "openSUSE Summit"}
 
 # About Block

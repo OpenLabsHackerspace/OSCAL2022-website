@@ -24,7 +24,7 @@
   id: 3
   name: "Boris"
   surname: "Stoyanov"
-  company: ""
+  company: "Boris is a Senior Software Engineer in Coursera, helping bring hands-on education to everyone. He’s focusing on observability and process work, building a system that’s robust and maintainable."
   title: "Getting started with Go"
   bio: ""
   thumbnailUrl: "BorisStoyanov.png"
@@ -214,7 +214,7 @@
   company: ""
   title: "The state of facial recognition technology: DIY stuff to trick the surveillance cameras"
   bio: "I have studied at the University of Tirana, Faculty of Natural Sciences and in 2015 I get a BA degree in Physics. Then, I changed my career path to the creative industry. Currently, I'm working as a digital designer and art director at McCann Tirana. For more than 8 years I am a political activist with a focus on digital human rights, ethical tech, artificial intelligence and open-source technology."
-  thumbnailUrl: ""
+  thumbnailUrl: "KristiCunga.png"
   # rockstar: true
   social:
     - {name: "twitter", link: ""}
