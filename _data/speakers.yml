@@ -46,9 +46,9 @@
   id: 5
   name: "Dan"
   surname: "Cermak"
-  company: ""
-  title: ""
-  bio: ""
+  company: "openSUSE"
+  title: "What made your container fat?"
+  bio: "Dan is creating developer tools, builds container images & works on QA at SUSE. Originally, he started out as a theoretical astrophysicist, but after becoming a contributor to various Open Source projects, he finally made this his full-time job at SUSE"
   thumbnailUrl: "DanCermak.png"
   # rockstar: true
   social:
@@ -57,7 +57,7 @@
   id: 6
   name: "Danjela"
   surname: "Lura"
-  company: "GNU Guix"
+  company: ""
   title: "Deep Learning from a Student's Perspective"
   bio: "Danjela is a fresh computer science undergraduate who is very keen on open source projects and communities. She has been part of the Outreachy 2020 internship program working with the Guix community on the Guix Data Service. In the past she has been involved in initiatives that improve diversity and inclusion within the tech communities that she has been part of. Danjela is a Lisp lover and has a special place in her heart for Clojure. Has recently joined Acrolinx as a Software Engineer."
   thumbnailUrl: "DanjelaLura.png"
@@ -80,8 +80,8 @@
   name: "Douglas"
   surname: "DeMaio"
   company: "openSUSE"
-  title: ""
-  bio: ""
+  title: "My 8+ Years with the openSUSE Project; A new distribution openSUSE Leap Micro"
+  bio: "Douglas DeMaio is a manager for the openSUSE Project. He was marketing intern for Siemens Healthcare, a Sales and Marketing Manager for microdrones GmbH and has more than 15 years of Public Relations/Public Affairs experience. He has extensive experience in all aspects of news gathering for local, national and international media. He coached Senior officials for press conferences and individual interviews and developed strategic communications, including talking points, messaging, and advising on media approaches for both controversial and non-controversial issues."
   thumbnailUrl: "Douglas_DeMaio.png"
   # rockstar: true
   social:
@@ -168,8 +168,8 @@
   name: "Johannes"
   surname: "Segitz"
   company: "openSUSE"
-  title: ""
-  bio: ""
+  title: "Security for (not only openSUSE) developers"
+  bio: "With SUSE since 2014 as security engineer, working on proactive security topics like code review, product pentesting and red teaming. Long time security nerd and open source fanboy. In my free time I’m a scout and volunteer in supporting refugees"
   thumbnailUrl: "JohannesSegitz.png"
   # rockstar: true
   social:
@@ -190,8 +190,8 @@
   name: "Katrin"
   surname: "Murr"
   company: "openSUSE"
-  title: ""
-  bio: ""
+  title: "Why a company like SUSE encourages employee participate in community projects"
+  bio: "Katrin Murr has been with SUSE since 2016. At first as Event Coordinator & Operations Specialist in Global Engineering and later in SUSE IT. Now Field Enablement Manager, training our sales employees. She loves networking, contributing to the community & spread the SUSE spirit."
   thumbnailUrl: "KatrinMurr.png"
   # rockstar: true
   social:
@@ -267,8 +267,8 @@
   name: "Martin"
   surname: "Pluskal"
   company: "openSUSE"
-  title: ""
-  bio: ""
+  title: "Joys of packaging - building distribution in Open Build Service"
+  bio: "Martin is associated with both @SUSE and @openSUSE project for many years. While at SUSE he is mostly focusing on quality of released maintenance updates, at openSUSE he is responsible for the maintenance of plenty of packages, as well as membership applications."
   thumbnailUrl: "MartinPluskal.png"
   # rockstar: true
   social:
