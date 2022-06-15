@@ -120,6 +120,17 @@
   social:
     - {name: "twitter", link: ""}
 -
+  id: 32
+  name: "Erjon"
+  surname: "Curraj"
+  company: ""
+  title: "A talk on Digital Rights in Albania"
+  bio: ""
+  thumbnailUrl: "ErjonCurraj.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
   id: 12
   name: "Gerjan"
   surname: "Lleshaj"
@@ -186,17 +197,6 @@
   social:
     - {name: "twitter", link: ""}
 -
-  id: 18
-  name: "Katrin"
-  surname: "Murr"
-  company: "openSUSE"
-  title: "Why a company like SUSE encourages employee participate in community projects"
-  bio: "Katrin Murr has been with SUSE since 2016. At first as Event Coordinator & Operations Specialist in Global Engineering and later in SUSE IT. Now Field Enablement Manager, training our sales employees. She loves networking, contributing to the community & spread the SUSE spirit."
-  thumbnailUrl: "KatrinMurr.png"
-  # rockstar: true
-  social:
-    - {name: "twitter", link: ""}
--
   id: 19
   name: "Klesti"
   surname: "Fetiu"
@@ -244,7 +244,7 @@
   id: 23
   name: "Lum"
   surname: "Ramabaja"
-  company: "Wikipedia"
+  company: ""
   title: "Hypersyn: A Peer-to-Peer System for Mutual Credit"
   bio: "Lum co-founded Open Cybernetics, an entity focused on inventing new types peer-to-peer protocols. He is also the project lead at Xfai, a DeFi startup that has come up with a brand new design for more efficient DEXs. Lum has a bachelor’s degree in bioinformatics with a specialization in machine learning from the Johannes Kepler University in Linz, and is currently pursuing a master's in artificial intelligence, with focus on invariant representation learning."
   thumbnailUrl: "LumRamabaja.png"
@@ -307,6 +307,17 @@
   social:
     - {name: "twitter", link: ""}
 -
+  id: 34
+  name: "Orkidea"
+  surname: "Xhaferaj"
+  company: ""
+  title: "A talk on Digital Rights in Albania"
+  bio: "Orkidea is a knowledge advocate with a deep interest in innovation, public policy, and digitalization for development, with a focus on the use/support of evidence informed policy making; digitalization to strengthen communities; communication; knowledge management; innovation and digitalization; digital rights and project management.owledge management; innovation and digitalization; digital rights and project management."
+  thumbnailUrl: "OrkideaXhaferraj.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
   id: 29
   name: "Rei"
   surname: "Arifi"
@@ -314,17 +325,6 @@
   title: "Containerization and orchestration for fun and profit"
   bio: "I have been an IT professional for 3 years and a DevOps engineer professionally for 2 years. I started my career in information technology because of my passion for Linux and Open Source."
   thumbnailUrl: "ReiArifi.png"
-  # rockstar: true
-  social:
-    - {name: "twitter", link: ""}
--
-  id: 30
-  name: "Vincent"
-  surname: "W.J. van Gerven Oei"
-  company: "punctum books"
-  title: "Open Access and Open Infrastructure "
-  bio: "Vincent W.J. van Gerven Oei is co-director of scholar- and queer-led open access press punctum books. He is also a specialist of Old Nubian and loves cats."
-  thumbnailUrl: "Vincent.png"
   # rockstar: true
   social:
     - {name: "twitter", link: ""}
