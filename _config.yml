@@ -37,7 +37,6 @@ c4sponsorsUrl: "https://osc.al/sponsor"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {link: "https://cfp.openlabs.cc/oscal2022/schedule/", text: "Agenda"}

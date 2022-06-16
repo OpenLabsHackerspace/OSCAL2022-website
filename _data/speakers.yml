@@ -24,9 +24,9 @@
   id: 3
   name: "Boris"
   surname: "Stoyanov"
-  company: "Boris is a Senior Software Engineer in Coursera, helping bring hands-on education to everyone. He’s focusing on observability and process work, building a system that’s robust and maintainable."
+  company: "Coursera"
   title: "Getting started with Go"
-  bio: ""
+  bio: "Boris is a Senior Software Engineer in Coursera, helping bring hands-on education to everyone. He’s focusing on observability and process work, building a system that’s robust and maintainable."
   thumbnailUrl: "BorisStoyanov.png"
   # rockstar: true
   social:
@@ -138,6 +138,28 @@
   title: "How to setup Nextcloud on a docker container"
   bio: "Gerjan is a junior system administrator at Cloud68. He enjoys working with container and virtualization technologies. On the side he likes to participate in CTF-s and learn more about malware analysis"
   thumbnailUrl: "GerjanLleshaj.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 35
+  name: "Gianluca"
+  surname: "Boiano"
+  company: "Zextras"
+  title: "Linux Native Packaging in Carbonio Community Edition, our open source e-mail and collaboration platform"
+  bio: ""
+  thumbnailUrl: "GianlucaBoiano.png"
+  # rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 36
+  name: "Giuliano"
+  surname: "Caregnato"
+  company: "Zextras"
+  title: "Carbonio Community Edition: intro and technical demo of our email and collaboration open source project"
+  bio: ""
+  thumbnailUrl: "GiulianoCaregnato.png"
   # rockstar: true
   social:
     - {name: "twitter", link: ""}
