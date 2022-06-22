@@ -64,9 +64,9 @@ eventCity: "Tirana"
 typeoutTextValues: '"", "", "'
 typeoutFallback: ""
 heroButtons:
-- {link: "https://events.openlabs.cc/e/15/oscal-2022", text: "Get your ticket"}
 - {link: "https://cfp.openlabs.cc/oscal2022/schedule/", text: "Conference Agenda"}
 - {permalink: "/open-susse-summit/", text: "openSUSE Summit"}
+# - {link: "https://events.openlabs.cc/e/15/oscal-2022", text: "Get your ticket"}
 
 # About Block
 aboutTitle: "About OSCAL"
