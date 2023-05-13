@@ -39,12 +39,13 @@ c4sponsorsUrl: "https://osc.al/sponsor"
 navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {link: "https://cfp.openlabs.cc/oscal2022/schedule/", text: "Agenda"}
- - {permalink: "/open-susse-summit/", text: "OpenSuse Summit"}
- - {permalink: "/blog/", text: "News"}
- - {permalink: "/media/", text: "Media"}
- - {permalink: "/sponsors/", text: "Sponsors"}
- - {permalink: "/venue/", text: "Venue"}
+#  - {link: "https://cfp.openlabs.cc/oscal2022/schedule/", text: "Agenda"}
+ - {link: "/schedule/", text: "Agenda"}
+#  - {permalink: "/open-susse-summit/", text: "OpenSuse Summit"}
+#  - {permalink: "/blog/", text: "News"}
+#  - {permalink: "/media/", text: "Media"}
+#  - {permalink: "/sponsors/", text: "Sponsors"}
+#  - {permalink: "/venue/", text: "Venue"}
  - {permalink: "/about-tirana/", text: "Attending"}
 #  - {permalink: "/covid-19/", text: "COVID19 Info"}
  #- {permalink: "/schedule/", text: "Schedule"}
@@ -120,7 +121,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "OSCAL-moments.jpg"
 tweetsFeedTitle: "Hashtag:"
-twitterHashTag: "OSCAL2022"
+twitterHashTag: "OSCAL2023"
 # twitterFeed: ""
 
 # Partners Block
