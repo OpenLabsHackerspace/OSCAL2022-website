@@ -40,7 +40,7 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/speakers/", text: "Speakers"}
 #  - {link: "https://cfp.openlabs.cc/oscal2022/schedule/", text: "Agenda"}
- - {link: "/schedule/", text: "Agenda"}
+ - {permalink: "/schedule/", text: "Agenda"}
 #  - {permalink: "/open-susse-summit/", text: "OpenSuse Summit"}
 #  - {permalink: "/blog/", text: "News"}
 #  - {permalink: "/media/", text: "Media"}
