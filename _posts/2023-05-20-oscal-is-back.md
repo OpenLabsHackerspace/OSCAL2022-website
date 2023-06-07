@@ -19,7 +19,7 @@ Further details and calls for participation will be announced in the coming week
 - Twitter: [@OSCALconf](https://twitter.com/OSCALconf)
 - Instagram: [@oscalconf](https://www.instagram.com/oscalconf/)
 
-Contact information:
+Contact information:  
 
 Email: <a href="mailto:oscal@openlabs.cc">oscal@openlabs.cc</a>
 OSCAL is organized by Open Labs Albania, a non governmental, not for profit organization, dedicated to promote openness, freedom, transparency and decentralization by amplifying its voice as a community altogether.
